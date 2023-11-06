@@ -1,4 +1,4 @@
-* {
+body> {
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -14,12 +14,77 @@ footer {
     border-top: 1px solid black;
 }
 
-main {
+.index.html {
     background-color: rgb(246, 246, 244);
     padding-bottom: 50%;
 }
 
-h1 {
+.my-name {
     font-size: 60px;
     border-bottom: 1px solid black; 
+}
+
+.contact-page {
+    text-align: center;
+    font-size: 60px;
+    color: rgb(6, 56, 109);
+}
+
+.contact-info {
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+
+.html{
+    background-color: cornflowerblue;
+}
+
+.Socials {
+    text-align: center;
+    color: rgb(6, 56, 109);
+
+}
+
+.medier {
+    text-align: center;
+    color: white; 
+}
+
+.instagram
+{
+    color: white;
+}
+
+.snapchat {
+    color: white;
+}
+
+.tiktok {
+    color: white;
+}
+
+.allt-contact {
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+
+.contact-here {
+    text-align: center;
+    color: rgb(6, 56, 109);
+}
+
+.first-name {
+    color: rgb(6, 56,109); 
+    display: flex 
+    
+}
+
+.last-name {
+    display: flex;
+}
+
+.email {
+    display: flex;
 }
